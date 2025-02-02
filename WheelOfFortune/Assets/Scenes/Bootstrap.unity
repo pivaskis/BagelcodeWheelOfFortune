@@ -158,6 +158,7 @@ MonoBehaviour:
   autoInjectGameObjects: []
   scriptableInstallers:
   - {fileID: 11400000, guid: d047034629f896d44802ff5e28928829, type: 2}
+  - {fileID: 11400000, guid: c34ac13299417ec4fb155b68e620c594, type: 2}
   monoInstallers: []
 --- !u!4 &328899550
 Transform:
